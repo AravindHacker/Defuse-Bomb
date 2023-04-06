@@ -1,0 +1,32 @@
+.bomb-image {
+    margin-top: 40px;
+    width: 150px;
+    margin-left: 10vh;
+  }
+  .container
+  {
+    background-color: aqua;
+    height: 70%;
+    margin-top: 0px;
+    padding: 0px;
+  }
+  .content
+  {
+    margin-left: 70vh;
+    padding: 80px;
+  }
+  .inputele{
+    height: 7%;
+    width:300px;
+  }
+  .timer{
+    margin-left: 15vh;
+    font-size: 57px;
+    font-weight: 40px;
+    font-style: initial;
+  }
+  .head{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:crimson;
+    font-weight: bold;
+  }
